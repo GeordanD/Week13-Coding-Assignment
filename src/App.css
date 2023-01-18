@@ -37,7 +37,8 @@
   }
 }
 
-.App, body {
+.App,
+body {
   background-image: url(https://wallpapercave.com/wp/wp2939892.jpg);
 }
 
@@ -49,10 +50,10 @@ form {
 
 h3 {
   border: 3px solid gainsboro;
-  border-radius: .60em;
+  border-radius: 0.6em;
   display: inline;
   color: gainsboro;
-  padding: .30em;
+  padding: 0.3em;
   margin: 2px 2px 2px 2px;
 }
 
