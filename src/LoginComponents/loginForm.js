@@ -1,4 +1,3 @@
-//TODO Center of page;
 import React from "react";
 import SubmitButton from "./submitButton";
 import Username from "./username";
