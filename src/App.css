@@ -49,10 +49,10 @@ form {
 }
 
 h3 {
-  border: 3px solid gainsboro;
+  border: 3px solid black;
   border-radius: 0.6em;
   display: inline;
-  color: gainsboro;
+  background-color: gainsboro;
   padding: 0.3em;
   margin: 2px 2px 2px 2px;
 }
