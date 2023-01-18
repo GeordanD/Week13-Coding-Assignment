@@ -13,7 +13,7 @@ export default class NavBar extends React.Component {
         return (
 <Navbar bg="dark" expand="lg" variant="dark">
   <Container fluid>
-    <Navbar.Brand href="#">Login Form</Navbar.Brand>
+    <Navbar.Brand href="#">Restaurant Login</Navbar.Brand>
     <Navbar.Toggle aria-controls="navbarScroll" />
     <Navbar.Collapse id="navbarScroll">
       <Nav
@@ -39,7 +39,7 @@ export default class NavBar extends React.Component {
           className="me-2"
           aria-label="Search"
         />
-        <Button variant="outline-primary">Search</Button>
+        <Button variant="secondary">Search</Button>
       </Form>
     </Navbar.Collapse>
   </Container>
