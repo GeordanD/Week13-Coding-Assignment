@@ -39,11 +39,23 @@
 
 .App, body {
   background-image: url(https://wallpapercave.com/wp/wp2939892.jpg);
-  /* background-repeat: no-repeat; */
 }
 
 form {
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14_DyooE5sLLfhRZ1bdGyO8JzN-lITT6T_g&usqp=CAU);
   background-repeat: no-repeat;
   background-size: contain;
+}
+
+h3 {
+  border: 3px solid gainsboro;
+  border-radius: .60em;
+  display: inline;
+  color: gainsboro;
+  padding: .30em;
+  margin: 2px 2px 2px 2px;
+}
+
+#formContainer {
+  background-color: gainsboro;
 }

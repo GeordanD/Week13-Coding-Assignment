@@ -12,8 +12,11 @@ export default class LoginForm extends React.Component {
         <NavBar />
         
         <div id="loginForm" className="container">
+          <br></br>
           <h3>Log In</h3>
-          <form className="container form-control">
+          <br></br>
+          <br></br>
+          <form id="formContainer" className="container form-control">
             <Username/> 
             <Password/>
             <SubmitButton/>

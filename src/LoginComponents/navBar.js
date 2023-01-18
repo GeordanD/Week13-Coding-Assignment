@@ -36,7 +36,7 @@ export default class NavBar extends React.Component {
         <Form.Control
           type="search"
           placeholder="Search"
-          className="me-2"
+          className="me-3"
           aria-label="Search"
         />
         <Button variant="secondary">Search</Button>
